@@ -1,0 +1,10 @@
+{
+   "Teams.Tarefas": {
+      "Modulo": "Teams.Assignment",
+      "Dados_salvos": false
+   },
+   "Teams.Meet": {
+      "Modulo": "Teste",
+      "Dados_salvos": false
+   }
+}
